@@ -16,7 +16,7 @@
 
 ## 📣 How can you contact me?
 
-![Linkedin][]
+![Linkedin][https://www.linkedin.com/in/ahmed-ghounami-a675b1294/]
 ![Instagram][]
 ![Facebook][]
 ![Website][]
