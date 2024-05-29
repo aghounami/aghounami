@@ -11,6 +11,9 @@
   <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=tokyonight&card_width=250">
 </a>
 
+## 💼 Skills
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,bootstrap,tailwind,mysql,php,c,cpp,laravel,git,github,linux,vscode,postman,aws,azure,figma&c=5&bg=1&tc=1)](https://abablil.me)
+
 ## 📣 How can you contact me?
 
 ![Linkedin][]
