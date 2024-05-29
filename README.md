@@ -12,7 +12,7 @@
 </a>
 
 ## 💼 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,nodejs,react,bootstrap,tailwind,mysql,php,c,cpp,laravel,git,github,linux,vscode,postman,aws,azure,figma&c=5&bg=1&tc=1)](https://abablil.me)
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,linux,vscode,figma&c=5&bg=1&tc=1)]
 
 ## 📣 How can you contact me?
 
