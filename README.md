@@ -1,6 +1,6 @@
-## 💼 Skills
+## 👋 Hi there
 
-![My Skills][]
+## 💼 Skills
 
 ## 📈 GitHub Stats
 
