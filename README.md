@@ -1,19 +1,25 @@
-## 👋 Hi there
+### Hi
+### About me
+<ul>
+  <li>he/him</li>
+  <li>Javascript programmer</li>
+  <li>Fullstack developer (experience in web (vanilla and Svelte), and Node)</li>
+  <li>FOSS enthusiast</li>
+  <li>Linux & Windows user</li>
+  <li>Retro tech nerd</li>
+  <li>Music enjoyer</li>
+  <li>Cybersecurity enthusiast</li>
+  <li>Pinetime (<a href="https://github.com/InfiniTimeOrg/InfiniTime">Infinitime</a>) user</li>
+</ul>
 
-## 💼 Skills
+### Experience
+<ul>
+  <li>HTML, CSS</li>
+  <li>C, C++ (beginner)</li>
+  <li>Javascript</li>
+</ul>
 
-## 📈 GitHub Stats
-
-<a href="https://github.com/aghounami">
-  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&theme=tokyonight&card_width=250">
-</a>
-<a href="https://github.com/aghounami">
-  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=tokyonight&card_width=250">
-</a>
-
-## 💼 Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,linux,vscode)
-
-## 📣 How can you contact me?
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/bablilayoub](https://www.linkedin.com/in/ahmed-ghounami-a675b1294/))
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghounami&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Ahmed Ghounami" />
+  
+### Contributions
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="Ahmed Ghounami" />
