@@ -20,7 +20,3 @@
 ![Instagram][]
 ![Facebook][]
 ![Website][]
-
-## ❤️ Quote of the day
-
-``
