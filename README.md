@@ -12,7 +12,7 @@
 </a>
 
 ## 💼 Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,linux,vscode,figma&c=5&bg=1&tc=1)]
+[![My Skills](https://skillicons.dev/icons?i=html,css,c,cpp,linux,vscode)]
 
 ## 📣 How can you contact me?
 
