@@ -16,7 +16,7 @@
 
 ## 📣 How can you contact me?
 
-![Linkedin][https://www.linkedin.com/in/ahmed-ghounami-a675b1294/]
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/bablilayoub](https://www.linkedin.com/in/ahmed-ghounami-a675b1294/))
 ![Instagram][]
 ![Facebook][]
 ![Website][]
