@@ -8,7 +8,6 @@
 
 ### GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aghounami&show_icons=true&locale=en&layout=compact&theme=dark&bg_color=000000&text_color=ffffff" alt="Ahmed Ghounami" />
   
 ### Contributions
 
