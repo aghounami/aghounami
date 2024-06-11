@@ -8,7 +8,8 @@
 
 ### GitHub Stats
 
-| <a href="https://github.com/aghounami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aghounami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=buefy&hide_border=true" /></a> |  
+<a href="https://github.com/aghounami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/aghounami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=buefy&hide_border=true" /></a>
+
 ### Contributions
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="Ahmed Ghounami" />
