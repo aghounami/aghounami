@@ -12,7 +12,7 @@
 
 ### Contributions
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&locale=en&theme=dark&bg_color=000000" alt="Ahmed Ghounami" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&locale=en&theme=dark" alt="Ahmed Ghounami" />
 
 # 📣 How to Contact Me
 
