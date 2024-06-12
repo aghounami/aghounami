@@ -1,4 +1,6 @@
 ### Hi
+[![aghounam's 42 stats](https://badge.mediaplus.ma/greenbinary/aghounam)](https://github.com/oakoudad/badge42)
+
 ### About me
 
 - **Student at 42 coding school** 
