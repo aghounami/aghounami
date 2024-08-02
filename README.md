@@ -21,7 +21,7 @@
 You can reach out to me through various platforms. Feel free to connect with me!
 
 <p align="center">
-  <a href="" style="margin: 0 15px;">
+  <a href="https://www.linkedin.com/in/ahmed-ghounami-a675b1294/" style="margin: 0 15px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="" style="margin: 0 15px;">
