@@ -1,5 +1,10 @@
 ### Hi
-[![aghounam's 42 stats](https://badge.mediaplus.ma/greenbinary/aghounam)](https://github.com/oakoudad/badge42)
+<br>
+<div class="item">
+<h2 style="color: blue" > 42 Cursus <h2>
+ <a href="https://github.com/aghounami/badge42"><img src="https://badge.mediaplus.ma/binary/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
+</div>
+<br>
 
 ### About me
 
