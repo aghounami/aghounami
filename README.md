@@ -1,7 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm AHMED. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
-
-<br />
-
+###hello i'm ahmed
 <div class="item">
 <h2 style="color: blue" > 42 Cursus <h2>
  <a href="https://github.com/aghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
