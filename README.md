@@ -13,12 +13,15 @@
 - **Interests:** Frontend and Backend Development
 - **Certification:** "The common core of the 42 curriculum represents the minimum set of skills to be ready for a first professional experience. It provides basic and standard coding skills, as well as a fruitful range of soft skills."
 
-### GitHub Stats
+## &#x1f4c8; GitHub Stats
 
-<div align="center">
-   <img width="400" src="https://github-readme-stats.vercel.app/api?username=aghounami&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=aghounami&theme=tokyonight&hide_border=true" />
-</div>
+<a href="https://github.com/aghounami">
+  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&theme=tokyonight&card_width=250">
+</a>
+<a href="https://github.com/aghounami">
+  <img height=200 align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=tokyonight&card_width=250">
+
+</a>
 
 # 📣 How to Contact Me
 
