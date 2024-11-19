@@ -15,8 +15,10 @@
 
 ### GitHub Stats
 
-| <a href="https://github.com/aghounami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ahmed's github stats" /></a> | <a href="https://github.com/aghounami/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<div align="center">
+   <img width="400" src="https://github-readme-stats.vercel.app/api?username=joshxfi&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
+   <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=joshxfi&theme=tokyonight&hide_border=true" />
+</div>
 
 ### Contributions
 
