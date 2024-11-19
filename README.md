@@ -20,10 +20,6 @@
    <img width="425" src="https://github-readme-streak-stats.herokuapp.com/?user=aghounami&theme=tokyonight&hide_border=true" />
 </div>
 
-### Contributions
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&locale=en&theme=dark" alt="Ahmed Ghounami" />
-
 # 📣 How to Contact Me
 
 You can reach out to me through various platforms. Feel free to connect with me!
