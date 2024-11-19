@@ -16,10 +16,10 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/aghounami">
-  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&theme=cobalt&card_width=250">
+  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&theme=dracula&card_width=250">
 </a>
 <a href="https://github.com/aghounami">
-  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=cobalt&card_width=250">
+  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=dracula&card_width=250">
 </a>
 
 # 📣 How to Contact Me
