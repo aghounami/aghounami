@@ -5,7 +5,7 @@
  <a href="https://github.com/aghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
 </div>
 <br>
-![Project Image](screen.png)
+<img src="screen.png" alt="My Screen Image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
 
 
 ### About me
