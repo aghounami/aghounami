@@ -1,11 +1,13 @@
-### hello i'm ahmed
 </br>
 <div class="item">
 <h2 style="color: blue" > 42 Cursus <h2>
  <a href="https://github.com/aghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
 </div>
 <br>
+ <a href="https://aghounami.github.io/Portfolio/">
+  
 <img src="screen.png" alt="My Screen Image" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
+ </a>
 
 
 ### About me
