@@ -1,7 +1,7 @@
 </br>
 <div class="item">
 <h2 style="color: blue" > 42 Cursus <h2>
- <a href="https://github.com/aghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
+ <a href="https://github.com/ahmedghounami/badge42"><img src="https://badge.mediaplus.ma/black/aghounam"  style="margin-right: auto; margin-left: auto; "alt="aghounam's 42 stats"/></a>
 </div>
 <br>
  <a href="https://aghounami.github.io/Portfolio/">
@@ -19,11 +19,11 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/aghounami">
-  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=aghounami&show_icons=true&theme=gruvbox&card_width=250">
+<a href="https://github.com/ahmedghounami">
+  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=ahmedghounami&show_icons=true&theme=gruvbox&card_width=250">
 </a>
-<a href="https://github.com/aghounami">
-  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aghounami&layout=compact&theme=gruvbox&card_width=250">
+<a href="https://github.com/ahmedghounami">
+  <img height="200" align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedghounami&layout=compact&theme=gruvbox&card_width=250">
 </a>
 
 # 📣 How to Contact Me
